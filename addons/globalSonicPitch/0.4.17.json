@@ -3,11 +3,11 @@
 	"addonVersionNumber": {
 		"major": 0,
 		"minor": 4,
-		"patch": 16
+		"patch": 17
 	},
-	"addonVersionName": "0.4.16",
+	"addonVersionName": "0.4.17",
 	"displayName": "Global Sonic Pitch",
-	"publisher": "Kazek, DJ Graco",
+	"publisher": "Kazimierz Parzych, DJ Graco",
 	"description": "Adds optional global Sonic pitch processing for NVDA speech audio.",
 	"homepage": "https://github.com/kazek5p-git/sonicpitch",
 	"minNVDAVersion": {
@@ -21,11 +21,11 @@
 		"patch": 1
 	},
 	"channel": "stable",
-	"URL": "https://github.com/kazek5p-git/sonicpitch/releases/download/v0.4.16/globalSonicPitch-0.4.16.nvda-addon",
-	"sha256": "F122263679E96FA9F71FE85D0807614394EC903D14F2A3CDED2F275111008EA4",
+	"URL": "https://github.com/kazek5p-git/sonicpitch/releases/download/v0.4.17/globalSonicPitch-0.4.17.nvda-addon",
+	"sha256": "DEDB792CED78157D6D3D38453CD7DC40FE88085724F2D51A2DB457DBA624876F",
 	"sourceURL": "https://github.com/kazek5p-git/sonicpitch",
 	"license": "GPL v2",
 	"licenseURL": "https://www.gnu.org/licenses/gpl-2.0.html",
-	"submissionTime": 1783898106237,
+	"submissionTime": 1783898802181,
 	"translations": []
 }
